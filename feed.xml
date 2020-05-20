@@ -3,7 +3,7 @@
     <title>Collaborative Challenges Club</title>
     <link href="https://collaborativechallenges.github.io/feed.xml" rel="self" />
     <link href="https://collaborativechallenges.github.io" />
-    <updated>2020-05-21T02:43:39+06:00</updated>
+    <updated>2020-05-21T03:22:06+06:00</updated>
     <author>
         <name>Ali Murteza Yesil</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://collaborativechallenges.github.io/blogging-platform-review-contribute.html</id>
             <category term="Contribute"/>
 
-        <updated>2020-05-21T02:31:48+06:00</updated>
+        <updated>2020-05-21T03:21:59+06:00</updated>
             <summary>
                 <![CDATA[
                     <p id="mcetoc_1e8pjseu50"><strong>We are creating an exhaustive report of every blogging platform that is in active development.</strong></p>
@@ -40,7 +40,8 @@
 <h2 id="mcetoc_1e8pkc9iu4">When?</h2>
 <p>Funny you ask that :D</p>
 <p>It started the moment you read <strong>When?</strong> title and it will continue till there is no such thing as personal blog/portfolio or landing page.</p>
-<h2 id="mcetoc_1e8pl4ubi5">Template</h2>
+<h2 id="mcetoc_1e8pl4ubi5">Submission Email Template</h2>
+<p>Subject: <code>%Platform_Name% - Blogging Platform Review</code></p>
 <pre># Identifiers<br>name:<br>version:<br>official_website: <br>type:<br>license:<br><br>reporter_name:<br>reporter_identifier:<br><br># Opinion based rating<br># rate out of 10 points, 1 is terrible and 10 is perfect<br># 0 means this feature is not supported.<br>plugin:<br>comment:<br>RSS:<br>responsive_page:<br><br># Other features<br><br></pre>
 <ul>
 <li id="mcetoc_1e8plqor99">If you are reporting an update for a previous report, remember to add asterics (*) in the beginning of a field you updated.</li>
@@ -49,6 +50,7 @@
 <li><code>report_identifier:</code> can be an email, link to your twitter/mastodon profile or link to your personal website. Objective of this field is to prevent spam. If you want, we can make it visible in report page.</li>
 </ul>
 <h3 id="mcetoc_1e8plkr426">Example</h3>
+<p>Subject: <code>WordPress - Blogging Platform Review</code></p>
 <pre>name: WordPress<br>version: 5.4.1<br>official_website: wordpress.org<br>type: cms<br>license: GPLv2<br><br>reporter_name: Collaborative Challenges Club Sheriff<br>reporter_identifier: <a href="mailto:collaborativechallenges.club@protonmail.com">collaborativechallenges.club@protonmail.com<br></a>reporter_identifier: https://collaborativechallenges.club<br><br># Opinion based rating<br>plugin_support: 8<br>comment: 0 # Can be added via plugin<br>RSS: 0 # via plugin<br>responsive_page: 9<br><br># Other features<br>markdown: 8 # :emoji: feature missing<br>edit_from_mobile: 10<br>offline_edit: 5 # only on mobile app<br>Rich_format_text_editor: 10<br>e-commerce: 9 # via plugin<br><br></pre>
 <hr>
 <p> </p>
