@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://collaborativechallenges.github.io/blogging-platforms-review-result.html",
+            "url": "https://collaborativechallenges.github.io/blogging-platforms-review-result.html",
+            "title": "Blogging Platforms Review - Result",
+            "author": {
+                "name": "Ali Murteza Yesil"
+            },
+            "tags": [
+                   "Result"
+            ],
+            "date_published": "2020-05-21T03:41:37+06:00",
+            "date_modified": "2020-05-21T03:42:49+06:00"
+        },
+        {
             "id": "https://collaborativechallenges.github.io/blogging-platform-review-contribute.html",
             "url": "https://collaborativechallenges.github.io/blogging-platform-review-contribute.html",
             "title": "Blogging Platform Review - Contribute",
