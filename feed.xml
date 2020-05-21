@@ -3,7 +3,7 @@
     <title>Collaborative Challenges Club</title>
     <link href="https://collaborativechallenges.github.io/feed.xml" rel="self" />
     <link href="https://collaborativechallenges.github.io" />
-    <updated>2020-05-21T03:54:49+06:00</updated>
+    <updated>2020-05-22T01:06:49+06:00</updated>
     <author>
         <name>Ali Murteza Yesil</name>
     </author>
@@ -31,7 +31,7 @@
         <id>https://collaborativechallenges.github.io/blogging-platform-review-contribute.html</id>
             <category term="Contribute"/>
 
-        <updated>2020-05-21T03:21:59+06:00</updated>
+        <updated>2020-05-22T01:05:32+06:00</updated>
             <summary>
                 <![CDATA[
                     <p id="mcetoc_1e8pjseu50"><strong>We are creating an exhaustive report of every blogging platform that is in active development.</strong></p>
@@ -49,14 +49,15 @@
 <p>Every platform was created out of necessity. Which means each and every one of those platforms are in use. And as users of those platforms, we believe we should report our experiences for other people to make better informed decisions for their next site.</p>
 <h2 id="mcetoc_1e8pk67p43">How?</h2>
 <p class="msg msg--warning">We appreciate every contribution but we would be happier if you submit a report for a platform that is not mentioned in the report page.</p>
-<p>After creating a report according to below template, mail it to <a href="mailto:collaborativechallenges.club@protonmail.com" target="_blank" rel="noopener noreferrer">collaborativechallenges.club@protonmail.com</a>. See the example to have better idea on what goes where.</p>
+<p>You can submit a report for any platform, on <a href="https://github.com/collaborativechallenges/blogging_platforms_review" target="_blank" rel="noopener noreferrer" title="Blogging Platform Review repo">GitHub</a> or using email. For email, send your report to <a href="mailto:collaborativechallenges.club@protonmail.com" target="_blank" rel="noopener noreferrer">collaborativechallenges.club@protonmail.com</a> using below template. Template is not very strict as it is a guideline.</p>
 <h2 id="mcetoc_1e8pkc9iu4">When?</h2>
 <p>Funny you ask that :D</p>
 <p>It started the moment you read <strong>When?</strong> title and it will continue till there is no such thing as personal blog/portfolio or landing page.</p>
-<h2 id="mcetoc_1e8pl4ubi5">Submission Email Template</h2>
+<h2 id="mcetoc_1e8pl4ubi5">Email Template</h2>
 <p>Subject: <code>%Platform_Name% - Blogging Platform Review</code></p>
 <pre># Identifiers<br>name:<br>version:<br>official_website: <br>type:<br>license:<br><br>reporter_name:<br>reporter_identifier:<br><br># Opinion based rating<br># rate out of 10 points, 1 is terrible and 10 is perfect<br># 0 means this feature is not supported.<br>plugin:<br>comment:<br>RSS:<br>responsive_page:<br><br># Other features<br><br></pre>
 <ul>
+<li>For any suggestions to changes of template, create an issue on <a href="https://github.com/collaborativechallenges/blogging_platforms_review" title="Blogging Platforms Review repo">GitHub</a></li>
 <li id="mcetoc_1e8plqor99">If you are reporting an update for a previous report, remember to add asterics (*) in the beginning of a field you updated.</li>
 <li>Do not report updates for point versions. Editors are volunteers and can't update the report for each and every point release of each and every platform.</li>
 <li>Under <code># Other features</code> , you can add a field that is not mentioned before. Please don't add opinion based or advertisement like fields to custom section. For example, <code>speed: slow</code> is an opinion based field and isn't considered as meaningful.</li>
